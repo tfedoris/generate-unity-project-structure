@@ -1,0 +1,10 @@
+{
+    "name": "com.tylerfedoris.generateprojectstructure",
+    "version": "1.0.0",
+    "displayName": "Generate Project Structure",
+    "description": "This will create the project folder and scene hierarchy structure for a new project. The project structure is based on the Unity Style Guide: https://github.com/justinwasilenko/Unity-Style-Guide.",
+    "author": {
+        "name": "Tyler Fedoris",
+        "url": "https://www.github.com/tfedoris"
+    }
+}
